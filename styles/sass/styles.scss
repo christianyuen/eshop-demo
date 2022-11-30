@@ -15,3 +15,13 @@
 // h3: 54px;
 // h4: 34px;
 // h5: 14px;
+
+@use './partials/setup';
+@use './partials/typography';
+@use './partials/baseStyles';
+@use './partials/variables';
+@use './partials/nav';
+@use './partials/header';
+@use './partials/sections';
+@use './partials/footer';
+@use './partials/mediaQueries';

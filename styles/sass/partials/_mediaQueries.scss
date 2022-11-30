@@ -1,0 +1,17 @@
+// Smaller Desktop
+@media (max-width: 1000px) {
+  /* all of our styles for smaller DESKTOP devices will go within this breakpoint */
+    .item p {
+        font-size: 0.8rem;
+    }
+}
+
+// Tablet
+@media (max-width: 800px) {
+  /* all of our styles for TABLET devices will go within this breakpoint */
+}
+
+// Mobile
+@media (max-width: 500px) {
+  /* all of our styles for MOBILE devices will go within this breakpoint */
+}
